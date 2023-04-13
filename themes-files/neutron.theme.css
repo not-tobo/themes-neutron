@@ -38,13 +38,13 @@ $$ | \$$ |$$$$$$$$\ \$$$$$$  |   $$ |   $$ |  $$ | $$$$$$  |$$ | \$$ |
   --homeImageSize: cover;/* To cover the button, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
 
   /* BACKGROUND */
-  --backgroundColor: #060606; /* Background color */
+  --backgroundColor: #06060688; /* Background color */
   --backgroundImage: url('https://cdn.discordapp.com/attachments/831432400504225824/1096152581002240031/yee.jpg'); /* Backround image, must be a direct link | You can also set it to a gradient, google "css gradient"*/
   --backgroundPosition: center; /* Image position | center, left, right, bottom, top */
   --backgroundSize: cover; /* To cover the entire app, set to "cover". You can also set it to "100% 100%" but the image will be stretched. Set to "contain" to see the entire image */
   --backgroundRepeat: no-repeat; /* if you want the image to repeat | Google "css background repeat" */
   --backgroundBlur: 0px; /* Set to 0 to remove blur | Set to 10px for average blur */
-  --backgroundOpacity: 0; /* 0 is transparent */
+  --backgroundOpacity: .25; /* 0 is transparent */
 
   /* CODE BLOCKS */
   --backgroundCode: rgba(0,0,0,.5);
