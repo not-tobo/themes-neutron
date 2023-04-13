@@ -6,18 +6,6 @@
 :root {
     --themeColor1: #36D1DC;
     --themeColor2: #5B86E5;
-    --font-display: var(--customFont);
-    --homeImage: url('https://imgur.com/eItxuAq.png');
-    --homeImageSize: cover;
-    --backgroundColor: #0d0d0d;
-    --backgroundImage: url('https://imgur.com/qhBghXt.png');
-    --backgroundPosition: center;
-    --backgroundSize: cover;
-    --backgroundRepeat: no-repeat;
-    --backgroundBlur: 100px;
-    --backgroundOpacity: .65;
-    --backgroundCode: rgba(0,0,0,.5);
-    --backgroundName: rgba(0,0,0,.5);
 }
 
 .appMount-2yBXZl,
