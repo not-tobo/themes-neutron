@@ -23,6 +23,9 @@ body {
     filter: blur(var(--backgroundBlur))
 }
 
+.members-3WRCEx, .membersListNotices-UstAx3 {
+    width: 100%!important;
+}
 .app-2CXKsg,
 .applicationStore-2nk7Lo,
 .chat-2ZfjoI,
@@ -2221,7 +2224,7 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
 }
 
 .connectContainer-1hylYM, .connection-YOVI9j, .connectionHeader-Ixbb1s, .mainCard-3KBsBI {
-    background-color: #00000080 !important
+    background-color: #00000080;
 }
 
 .chat-1-OBC7, .container-3YcgdM, .ctaBar-Nhk8yY, .scroller-RfJjkV, .theme-dark .perk-19D_HN, .theme-dark .perksModal-CLcR1c, .theme-dark .tierBody-3ju-rc, .theme-dark .tierHeaderLocked-3ItHYn {
@@ -2850,3 +2853,61 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
 .gradient-1SYq38{
     background: #00000080 !important;
 }
+
+.chat-9g_3Xj{
+    background: transparent;
+}
+
+.chatContent-2O4SXb{
+    background: transparent;
+}
+
+.container-2vWgD2, .membersWrap-3GwLFp{
+    background: transparent;
+}
+
+.members-2y1nVj{
+    background: transparent;
+}
+
+.channelTextArea-1deLlK{
+    background: transparent;
+}
+
+.theme-dark .container-1CH86i{
+    background: transparent;
+}
+
+.theme-dark .form-3qe0Ni:before{
+    display: none;
+}
+
+.container-2NLBJg{
+    background: transparent;
+}
+
+.theme-dark .panel-ufc1-o {
+    background: transparent;
+}
+
+.container-3s2w-i{
+    background:transparent;
+}
+
+.base-3bcbY3{
+    background: transparent;
+}
+
+.theme-dark .container-q2_DnH.isOpen-2Gyel_{
+        background-color: #00000099;
+        border: 2px solid var(--themeColor1);
+}
+
+.messages-23can0{
+    background-color: var(--backgroundColor);
+}
+
+.container-q2_DnH:hover{
+    border: 2px solid var(--themeColor1);
+}
+

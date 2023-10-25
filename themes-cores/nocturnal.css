@@ -2851,3 +2851,78 @@
 .gradient-1SYq38{
     background: var(--backgroundColor01);
 }
+
+.members-3WRCEx, .membersListNotices-UstAx3 {
+    width: 100%!important;
+}
+
+.chat-9g_3Xj{
+    background: transparent;
+}
+
+.chatContent-2O4SXb{
+    background: transparent;
+}
+
+.container-2vWgD2, .membersWrap-3GwLFp{
+    background: transparent;
+}
+
+.members-2y1nVj{
+    background: transparent;
+}
+
+.channelTextArea-1deLlK{
+    background: transparent;
+}
+
+.theme-dark .container-1CH86i{
+    background: transparent;
+}
+
+.theme-dark .form-3qe0Ni:before{
+    display: none;
+}
+
+.container-2NLBJg{
+    background: transparent;
+}
+
+.theme-dark .panel-ufc1-o {
+    background: transparent;
+}
+
+.base-3bcbY3{
+    background: transparent;
+}
+
+.theme-dark .container-q2_DnH.isOpen-2Gyel_{
+    background-color: var(--backgroundColor02);
+}
+
+.chatContent-2O4SXb{
+    background: var(--backgroundColor02);
+}
+
+.base-3bcbY3{
+    background-color: var(--backgroundColor02);
+}
+
+.resizeHandle-2F4Beb{
+    background-color: var(--backgroundColor01);
+}
+
+.auto-2TJ1RH::-webkit-scrollbar-track{
+    background-color: var(--backgroundColor02);
+}
+
+.auto-2TJ1RH::-webkit-scrollbar-thumb{
+    background-color: var(--backgroundColor01);
+}
+
+
+
+
+
+
+
