@@ -2598,11 +2598,6 @@
     background-color: var(--backgroundColor02);
 }
 
-.userPopoutInner_f545a3:before {
-    background-color: transparent;
-    border: 3px solid transparent;
-}
-
 .panelBanner-13bsBR {
     border-left: 3px solid var(--backgroundColor01);
 }
@@ -2950,4 +2945,31 @@
 
 .callContainer_cbde45{
     background: var(--backgrounColor02);
+}
+.base__512ed{
+    background: var(--backgroundColor02);
+}
+
+.box_dd6d91{
+    background: var(--backgroundColor01);
+}
+
+.wrapper__3d460{
+    background: transparent;
+}
+
+.reaction_fef95b{
+    background: #00000020;
+}
+
+.reaction_fef95b:hover{
+    background-color: #00000050;
+}
+
+.reaction_fef95b.reactionMe__98f57{
+    background-color: #00000050;
+}
+
+.base__512ed{
+    background-color: var(--backgroundColor02);
 }

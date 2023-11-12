@@ -2708,11 +2708,6 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
     background-color: var(--backgroundColor);
 }
 
-.userPopoutInner_f545a3:before {
-    background-color: transparent;
-    border: 1px solid transparent;
-}
-
 .profileBadges-31rDHI {
     background-color: rgba(1,1,1,0.5);
 }
@@ -2932,4 +2927,28 @@ div[aria-label=GUILD_SETTINGS] .topPill-3DJJNV .themed-2-lozF.selected-g-kMVV.it
 
 .callContainer_cbde45{
     background: transparent;
+}
+
+.container_b181b6{
+    background: transparent;
+}
+
+.box_dd6d91{
+    background: transparent;
+}
+
+.wrapper__3d460{
+    background: transparent;
+}
+
+.reaction_fef95b{
+    background: #00000020;
+}
+
+.reaction_fef95b:hover{
+    background-color: #00000050;
+}
+
+.reaction_fef95b.reactionMe__98f57{
+    background-color: #00000050;
 }
