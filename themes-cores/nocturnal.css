@@ -522,7 +522,6 @@
     background-size: contain;
     background-position: center;
     -webkit-mask-box-image: url("https://i.imgur.com/6gPQfIO.png");
-    mask-image: url("https://i.imgur.com/6gPQfIO.png")
 }
 
 
@@ -3035,4 +3034,73 @@
 
 .gradient__03beb{
     display: none;
+}
+
+.container__03857{
+    background-color: var(--backgroundColor02);
+}
+
+.body__91006{
+    background-color: var(--backgroundColor02);
+}
+
+
+.channelName__9884c{
+    color: var(--mainColor) !important;
+}
+
+.statusText_e0f90b{
+    color: var(--mainColor);
+}
+
+.channelIcon_bf17cb{
+    color: var(--mainColor);
+}
+
+.spotifyButtonLogo__526f7{
+    color: var(--mainColor);
+}
+
+.button_b406e5{
+    color: var(--mainColor);
+}
+
+.spriteGreyscale__7b70f{background-color: var(--mainColor) !important;}
+.icon_ef4486{
+    color: var(--mainColor);
+}
+
+button.button__4f306>.contents_fb6220>svg>path[fill*="var(--interactive-normal)"] {
+    fill: var(--mainColor);
+}
+
+.iconContainer__8fa9c, .icon_f50f05 { 
+  width: 21px;
+  height: 21px;
+  color: var(--mainColor);
+  transition: ease-in-out .3s;
+}
+
+.searchBar_e0c60b { 
+  width: 21px;
+  height: 24px;
+  padding: 0;
+  background: none;
+  transition: ease-in-out 0.3s!important;
+}
+
+.searchBar_e0c60b:hover .iconContainer__8fa9c,
+.searchBar_e0c60b:hover .icon_f50f05,
+.focused_ddee54 .icon_f50f05,
+.focused_ddee54 .iconContainer__8fa9c { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.searchBar_e0c60b:hover,
+.focused_ddee54 .searchBar_e0c60b, .open_d3ab4e .searchBar_e0c60b  {
+  width: 175px;
+  background: transparent;
+  border: 2px solid var(--mainColor);
 }
