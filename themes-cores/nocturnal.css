@@ -3145,3 +3145,64 @@ button.button_ae40a4>.contents__322f4>svg>path[fill*="var(--interactive-normal)"
 .soundAddButton_bdadae:hover, .soundAddButton_bdadae.focused__5fe02{
     background: var(--backgroundColor02);
 }
+
+.iconWrapper_de6cd1 path{
+    fill: var(--mainColor) !important;
+}
+
+.wrapper__45980{
+    background-color: var(--backgroundColor02);
+}
+
+.settingsIcon_e74cf5{
+    color: var(--mainColor);
+}
+
+.categoryIcon__3e47a[data-list-item-id="NO_LIST___soundboard_guild_0"]{
+    content: "";
+    width: 24px;
+    background-color: transparent !important;
+    height: 24px;
+    padding: 4px;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-image: url(https://i.imgur.com/UHt9vNG.png);
+}
+.categoryIcon__3e47a[data-list-item-id="NO_LIST___soundboard_guild_0"] > .categoryIconIcon__18765{
+    display: none;
+}
+
+.categoryIcon_d0a396{
+    color: var(--mainColor);
+}
+
+.modalHeader_b1624c{
+    background-color: var(--backgroundColor01) ;
+}
+
+.scroller__27542{
+    background-color: var(--backgroundColor01) ;
+}
+
+.footer_ecba00{
+    background-color: var(--backgroundColor01) ;
+}
+
+.activityTextContainer__930a7{
+    background-color: var(--backgroundColor02) ;
+}
+
+.standardStickerShortcut_e9a698{
+    color: var(--mainColor);
+}
+
+.unicodeShortcut__01a83{
+    color: var(--mainColor);
+}
+
+.actionIcon_b149a2 path{
+    fill: var(--mainColor);
+}
